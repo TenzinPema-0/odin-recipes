@@ -1,1 +1,1 @@
-# odin-recipes
+This project will be about food recipes and I will be using HTML in order to create it. I will be using the anchor attribute in order to create links that redirect the user to recipes.
