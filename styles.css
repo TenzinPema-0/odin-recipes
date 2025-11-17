@@ -1,0 +1,49 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+} 
+
+.background-image{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    min-height: 100vh;
+    margin: 0;
+}
+
+.main-page-background {
+    background-image: url("./images/pexels-photo-304664.jpeg");
+ }
+
+ .chow-mein-recipe-background {
+    background-image: url("./images/istockphoto-1623303770-612x612.webp");
+ }
+
+.food-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.recipe-text {
+    text-align: center;
+    color: white;
+    font-size: 25px;
+}
+
+ul {
+    margin: 0 20%;
+}
+
+.header{
+    font-size: 50px;
+    
+    text-align: center;
+    font-style: italic;
+ }
+
+.recipe-links {
+    font-size: 50px;
+    
+    text-align: center;
+ }
+
